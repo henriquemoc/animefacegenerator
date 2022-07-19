@@ -1,4 +1,4 @@
-# Gerador de faces de Animes
+# GAN para gerar de faces de Animes
 
 Aluno: Henrique Magalhães de Oliveira Carvalho
 
