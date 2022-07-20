@@ -2,6 +2,9 @@
 
 Aluno: Henrique Magalhães de Oliveira Carvalho
 
+Link para a base utilizada:
+https://www.kaggle.com/datasets/scribbless/another-anime-face-dataset
+
 Link para os modelos de checkpoints(devem ser colocados dentro da pasta checkpoints):
 https://drive.google.com/file/d/1pjAYPlFFPOL32sQihoHRrjDSgDa9bThL/view?usp=sharing
 
